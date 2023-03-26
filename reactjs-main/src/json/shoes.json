@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "1",
+        "name": "Air Max",
+        "category": "nike",
+        "price": 100,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat, maiores asperiores ducimus ex ipsam recusandae molestiae est omnis nostrum autem esse voluptates! Molestias ipsum, culpa facilis quaerat adipisci perspiciatis harum?",
+        "image": "https://invain.imgix.net/uploads/2019/09/historia_nike_zapatillas_cortez.jpg?auto=format%2Ccompress&ixlib=php-3.3.0"
+    },
+    {
+        "_id": "2",
+        "name": "Air Jordan 1",
+        "category": "nike",
+        "price": 150,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat, maiores asperiores ducimus ex ipsam recusandae molestiae est omnis nostrum autem esse voluptates! Molestias ipsum, culpa facilis quaerat adipisci perspiciatis harum?",
+        "image": "https://invain.imgix.net/uploads/2019/09/historia_nike_zapatillas_cortez.jpg?auto=format%2Ccompress&ixlib=php-3.3.0"
+    },
+    {
+        "_id": "3",
+        "name": "Adidas Falcon",
+        "category": "adidas",
+        "price": 120,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat, maiores asperiores ducimus ex ipsam recusandae molestiae est omnis nostrum autem esse voluptates! Molestias ipsum, culpa facilis quaerat adipisci perspiciatis harum?",
+        "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/ad2f4fc4c9e64c7cad0aae3000cb8676_9366/Zapatillas_adidas_Grand_Court_Blanco_GW9261_01_standard.jpg"
+    },
+    {
+        "_id": "4",
+        "name": "Air Force 1",
+        "category": "nike",
+        "price": 200,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat, maiores asperiores ducimus ex ipsam recusandae molestiae est omnis nostrum autem esse voluptates! Molestias ipsum, culpa facilis quaerat adipisci perspiciatis harum?",
+        "image": "https://invain.imgix.net/uploads/2019/09/historia_nike_zapatillas_cortez.jpg?auto=format%2Ccompress&ixlib=php-3.3.0"
+    },
+    {
+        "_id": "5",
+        "name": "Adidas Forum",
+        "category": "adidas",
+        "price": 170,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat, maiores asperiores ducimus ex ipsam recusandae molestiae est omnis nostrum autem esse voluptates! Molestias ipsum, culpa facilis quaerat adipisci perspiciatis harum?",
+        "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/ad2f4fc4c9e64c7cad0aae3000cb8676_9366/Zapatillas_adidas_Grand_Court_Blanco_GW9261_01_standard.jpg"
+    },
+    {
+        "_id": "6",
+        "name": "Adidas Turbo",
+        "category": "adidas",
+        "price": 300,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat, maiores asperiores ducimus ex ipsam recusandae molestiae est omnis nostrum autem esse voluptates! Molestias ipsum, culpa facilis quaerat adipisci perspiciatis harum?",
+        "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/ad2f4fc4c9e64c7cad0aae3000cb8676_9366/Zapatillas_adidas_Grand_Court_Blanco_GW9261_01_standard.jpg"
+    }
+]
